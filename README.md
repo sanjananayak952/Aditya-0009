@@ -12,9 +12,16 @@ Sentibot is an innovative web application that leverages advanced technologies t
 
 For more details, you can explore the [Sentibot Repository]([https://github.com/username/sentibot-repo](https://github.com/Aditya-0009/SentiBot--Your-Virtual-Friend)).
 
-![Sentibot Screenshot](https://path-to-screenshot-image)
 
 ## About Me
 
-- *Name:* [Your Name]
-- *Bio:* A brief bio or description of yourself.
+- *Name:* Sanjana Nayak
+- *Bio:* 
+👋 Hi, I'm Sanjana Nayak, a passionate software developer with a focus on [your specialization or interests, "machine learning". I enjoy building innovative solutions and collaborating on meaningful projects. 
+
+🔧 My primary tech stack includes e.g., Python. I'm always eager to learn and explore new tools and technologies.
+
+💡 I’m particularly interested in artificial intelligence, web development. and I love contributing to open-source projects.
+
+📫 Feel free to reach out: sanjananayak952@gmail.com
+

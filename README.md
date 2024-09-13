@@ -10,7 +10,7 @@ Sentibot is an innovative web application that leverages advanced technologies t
 - *Real-Time Emotion Analysis:* The app features real-time emotion detection through facial analysis, enhancing the user experience.
 - *Interactive Chatbot:* A chatbot is available to interact with users, providing responses and engaging conversations.
 
-For more details, you can explore the [Sentibot Repository]([https://github.com/username/sentibot-repo](https://github.com/Aditya-0009/SentiBot--Your-Virtual-Friend)).
+For more details, you can explore the [Sentibot Repository](https://github.com/Aditya-0009/SentiBot--Your-Virtual-Friend)).
 
 
 ## About Me
